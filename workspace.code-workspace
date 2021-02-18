@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "css",
+			"path": "..\\..\\..\\Downloads\\bootstrap-4.6.0-dist\\css"
+		},
+		{
+			"name": "bw-carousal-site",
+			"path": "."
+		},
+		{
+			"name": "js",
+			"path": "..\\..\\..\\Downloads\\bootstrap-4.6.0-dist\\js"
+		}
+	],
+	"settings": {}
+}
